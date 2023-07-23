@@ -69,7 +69,6 @@
 - Android
   - [v2rayNG](https://github.com/2dust/v2rayNG)
   - [HiddifyNG](https://github.com/hiddify/HiddifyNG)
-  - [X-flutter](https://github.com/XTLS/X-flutter)
 - iOS & macOS arm64
   - [Mango](https://github.com/arror/Mango)
   - [FoXray](https://apps.apple.com/app/foxray/id6448898396)
